@@ -1,0 +1,19 @@
+1. Criar uma conta no GIThub.com
+2. Instalar o aplicativo GIT no computador
+3. Criar uma pasta no computador
+4. Dentro da pasta, com o botão direito do mouse, selecionar "GIT BASH here"
+Os passos 5 e 6 só precisam ser feitos na primeira vez
+5. git config --global user.email "gilberto.vbranco@gmail.com"
+6. git config --global user.name "gvbranco"
+7. Inicializar o git com o comando: git init
+8. Troque para a branch de Master para Main com o comando: git branch -M main
+9. Adicione este arquivo para o indíce com o comando: git add 'Passo-a-passo-GIT.txt"
+10. Faça o primeiro Commit para criar o versionamento do GIT com o comando: git commit -m "GVB v1.0"
+12. Vá para o GitHub e crie o seu repositório. Use o comando NEW e dê o nome que quiser. Ex.: MbaUspEsalq
+13. Vá no botão CODE e copie o endeço https de seu repositório. Ex.: https://github.com/gvbranco/MbaUspEsalq.git
+14. Crie o link de sua pasta local com a pasta remota com o comando: git remote add origin https://github.com/gvbranco/MbaUspEsalq.git
+15. Faça o push para subir o arquivo para o repositório GIT: git push -u origin main
+
+
+
+
